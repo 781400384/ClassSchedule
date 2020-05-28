@@ -1,0 +1,39 @@
+//
+//  ClassSchedulePrefix.pch
+//  ClassSchedule
+//
+//  Created by Superme on 2019/10/24.
+//  Copyright © 2019 Superme. All rights reserved.
+//
+
+#ifndef ClassSchedulePrefix_pch
+#define ClassSchedulePrefix_pch
+
+#import "ClassScheduleMacros.h"
+#import "YYKit.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+#import "MJRefresh.h"
+#import "APIConfig.h"
+#import "NSString+HWExt.h"
+#import "UIAlertView+HWExt.h"
+#import "UIButton+HWExt.h"
+#import "UIColor+HWExt.h"
+#import "UIColor+Tools.h"
+#import "UIControl+Block.h"
+#import "UIImage+HWExt.h"
+#import "UIView+HWExt.h"
+#import "UIImageView+WebCache.h"
+#import "CSNaview.h"
+#import "CSBaseViewController.h"
+#import "CSBaseNavigationViewController.h"
+#import "CSBaseTableView.h"
+#import "CSConst.h"
+#import "HttpTools.h"
+#import "APIConfig.h"
+#import "ClassHandle.h"
+#import "NSString+string.h"
+#import <WechatOpenSDK/WXApi.h>
+#import "UserInfoDefaults.h"
+#import <UMCommon/UMCommon.h>
+#endif /* ClassSchedulePrefix_pch */
